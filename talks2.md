@@ -25,7 +25,27 @@ permalink: /talks2/
 </nav>
 
 <section id="y-2026" class="year-block">
-<h2><span>2026 <span class="year-count">15 talks</span></span> <a class="to-top" href="#top">↑ top</a></h2>
+<h2><span>2026 <span class="year-count">17 talks</span></span> <a class="to-top" href="#top">↑ top</a></h2>
+
+<div class="event">
+<div class="event-date">08.17</div>
+<div class="event-body">
+<div class="event-head"><a href="https://www.linkedin.com/posts/builditclub-krakow-artificialintelligence-share-7492928783868678146-SJtu">Build IT Club</a><span class="loc">, Cracow, Poland</span></div>
+<ul class="talks">
+<li><span class="tag tag-lt" title="Lightning talk (~5 min, often improvised)">⚡</span><span class="title">Benchmarking/evaluating your agentic skills with <code>CLAUDE_CODE_WALNUT_SPIRE=1 claude plugin eval init</code></span></li>
+</ul>
+</div>
+</div>
+
+<div class="event">
+<div class="event-date">07.29</div>
+<div class="event-body">
+<div class="event-head"><a href="https://www.meetup.com/rust-poland-meetup/events/315582674">Rust Poland Meetup #10</a><span class="loc">, Cracow, Poland</span></div>
+<ul class="talks">
+<li><span class="tag tag-lt" title="Lightning talk (~5 min, often improvised)">⚡</span><span class="title">Rust appsec guide and a case of zero division difference between architectures</span> <a href="https://www.youtube.com/watch?v=azh7Jb4s_r8">video</a> <a href="https://www.linkedin.com/posts/rust-poland_disconnect3d-dominik-czarnota-and-electronicks-activity-7495143168552878080-OPd8">info</a></li>
+</ul>
+</div>
+</div>
 
 <div class="event">
 <div class="event-date">06.25</div>

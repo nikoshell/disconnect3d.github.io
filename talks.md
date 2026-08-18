@@ -6,6 +6,12 @@ permalink: /talks/
 
 Below you can see a list of talks I gave on various events with slides/videos links. The `[PL]` tag means it was in Polish and `[lightning talk]` means it was a quick, usually <5 min talk, likely improvised or prepared just before giving it.
 
+### 2026.08.17 Build IT Club, Cracow, Poland
+* [lightning talk] Benchmarking/evaluating your agentic skills with `CLAUDE_CODE_WALNUT_SPIRE=1 claude plugin eval init` ([info](https://www.linkedin.com/posts/builditclub-krakow-artificialintelligence-share-7492928783868678146-SJtu))
+
+### 2026.07.29 [Rust Poland Meetup #10](https://www.meetup.com/rust-poland-meetup/events/315582674), Cracow, Poland
+* [lightning talk] Rust appsec guide and a case of zero division difference between architectures ([video](https://www.youtube.com/watch?v=azh7Jb4s_r8), [info](https://www.linkedin.com/posts/rust-poland_disconnect3d-dominik-czarnota-and-electronicks-activity-7495143168552878080-OPd8))
+
 ### 2026.06.25 [Pykonik Tech Talks #85](https://www.pykonik.org/tech-talks/85/)
 * [PL][lightning talk] TLS/mTLS/Noise protocol, Bluetooth during flight, and smartphone vs car nausea ([video](https://youtu.be/XVod4wEv8MU?t=8506))
 
